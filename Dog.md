@@ -1,4 +1,8 @@
 # Contributors
 
 - Luke
+
 - dendthor
+
+- AJ
+
